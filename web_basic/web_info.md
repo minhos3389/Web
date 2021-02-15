@@ -61,5 +61,23 @@ CSS는 시각적으로 꾸며주는 역할.
 - 웹서버,IoT등에도 사용가능하게 발전했다.
 
 ---
+
+### 검색을 위한 유용한 쿼리들 크롬검색엔진에 추가해서 사용.
+
 브라우저에서 html,css,js 수행해볼 수 있는 사이트. 
 (https://codepen.io/)
+
+
+
+모질라 검색 사이트.
+(https://developer.mozilla.org/ko/)
+
+
+
+문서검색에 유용한 DevDocs.io 사이트.
+(https://devdocs.io/#q=%s)
+
+
+
+브라우저에 따른 기능 지원여부 확인 사이트. (잘 쓰이는 경우 초록색, 적게 쓰이는 경우 붉은색.)
+(https://caniuse.com/#search=%s)
